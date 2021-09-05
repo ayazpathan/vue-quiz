@@ -1,4 +1,5 @@
 <template>
+  <!-- BUTTON CONTAINERS -->
   <div class="ctr">
     <transition name="fade" mode="out-in">
       <questions
